@@ -1,0 +1,32 @@
+.headerContainer { 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #656565;
+    padding: 40px 30px;
+}
+
+.menu { 
+    display: flex;
+    gap: 20px;
+}
+
+.menuItem { 
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+}
+
+.menuItem:hover { 
+    font-size: 20px;
+    font-weight: 500;
+    color: #c2c2c2;
+}
+
+.logoText { 
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+}

@@ -1,0 +1,39 @@
+.container {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image {
+    width: 500px;  /* Устанавливаем фиксированную ширину */
+    height: 200px; /* Устанавливаем фиксированную высоту */
+    margin-bottom: 10px;
+    object-fit: cover;  /* Обрезаем изображения, чтобы они заполнили контейнер */
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.evaluate {
+    width: 1000px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+}

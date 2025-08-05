@@ -1,0 +1,10 @@
+.border {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    gap: 20px;
+    padding: 20px 10px;
+}

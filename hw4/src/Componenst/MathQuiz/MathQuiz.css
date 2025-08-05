@@ -1,0 +1,18 @@
+p {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.Answer-container {
+    display: flex;
+    justify-content: center;
+}
+
+.MathQuiz-container {
+    width: 50%;
+    padding: 30px;
+    background-color: #0077ae;
+    border-radius: 8px;
+    border: 1px solid #7100fa;
+}

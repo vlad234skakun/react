@@ -1,0 +1,37 @@
+.btn-white {
+    padding: 5px 10px;
+    background-color: #e6e6e6;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.btn-white:hover {
+    background-color: #dedede;
+}
+
+.btn-black {
+    padding: 5px 10px;
+    background-color: #1c1c1c;
+    color: rgb(230, 230, 230);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.btn-black:hover {
+    background-color: #3e3e3e;
+
+}
+
+.list-container-black {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #2b2b2b;
+}

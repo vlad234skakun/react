@@ -1,0 +1,9 @@
+.userItem { 
+    margin-bottom: 3px;
+    border-bottom: 1px solid #ced4da;
+}
+
+.userName {
+    margin-left: 4px;
+    margin-bottom: 4px;
+}

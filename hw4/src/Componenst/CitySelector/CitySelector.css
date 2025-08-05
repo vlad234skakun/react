@@ -1,0 +1,19 @@
+.label-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+select {
+    width: 20%;
+    padding: 20px;
+    border-radius: 15px;
+    border: 1px solid rgb(0, 96, 11);
+    background-color: rgba(0, 145, 17, 0.503);
+}
+
+.select-label {
+    font-size: 40px;
+    color: rgb(0, 96, 11);
+    margin: 30px;
+}

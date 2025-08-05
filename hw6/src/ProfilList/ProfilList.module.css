@@ -1,0 +1,30 @@
+.container { 
+    background-color: #CCF3A3;
+    width: 600px;
+    padding: 50px 0;
+}
+.block { 
+    color: #38461F;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    background-color: #DDDDDD;
+    color: black;
+    padding: 15px;
+    border: none;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+p {
+    font-size: 20px;
+}

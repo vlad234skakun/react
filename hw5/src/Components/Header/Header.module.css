@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    margin: 55px 0 0 34px;
+}
+
+.iconLogo {
+    cursor: pointer;
+}
